@@ -1,0 +1,14 @@
+WORA--write once run anyware
+originaally called OAK
+free and open source software
+high level programming language
+father of java is james gosling
+released bu Sun microsystems in 1996
+
+
+// Features of java
+
+easy, robust, portable, distributed,
+Object Oriented, Platform Independennt,
+secure, interpreted, multithreaded
+
