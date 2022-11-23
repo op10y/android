@@ -1,3 +1,4 @@
+/* javac filname.java & java filename.java to exwcute*/
 public class Learn {
     public static void main(String[] args) {
         //Multi-line print method
